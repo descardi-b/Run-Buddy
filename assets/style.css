@@ -1,0 +1,23 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #39a6b2;
+}
+
+/* header styles */
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
+
+/* adtnl header styles */
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+}
+
+/* header anchor */
+header a {
+    color: #fce138;
+}
