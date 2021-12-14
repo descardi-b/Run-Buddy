@@ -146,7 +146,7 @@ section {
 /* steps styling */
 .steps {
     text-align: center;
-    color: #fce138;
+    background-color: #fce138;
 }
 
 .steps div {
